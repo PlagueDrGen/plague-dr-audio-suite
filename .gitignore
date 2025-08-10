@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Our app's temporary files
+temp_uploaded_audio.wav
+separated/
+
+# Virtual environment
+env/
+venv/
